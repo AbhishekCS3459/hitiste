@@ -71,7 +71,7 @@ const Navbar: React.FC = () => {
             {[
               { path: "/", label: "HOME" },
               { path: "/events", label: "EVENTS" },
-              { path: "/blogs", label: "BLOGS" },
+              { path: "/social", label: "SOCIAL" },
               { path: "/memories", label: "MEMORIES" },
         
             ].map((item, index) => (
