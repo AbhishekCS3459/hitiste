@@ -75,6 +75,7 @@ export default function Home() {
 
 const sliderData = [
   {
+    id:"1",
     img: "https://res.cloudinary.com/ds4lbluhe/image/upload/v1708694408/WhatsApp_Image_2024-02-23_at_18.47.38_034a1c5d_l5rf8s.jpg",
     location: "CS Department",
     description:
@@ -82,6 +83,7 @@ const sliderData = [
     title: "CodeVault",
   },
   {
+    id:"2",
     img: "https://res.cloudinary.com/ds4lbluhe/image/upload/v1708693635/IMG_20231101_185655_pwdjnf.jpg",
     title: "Access Denied",
     description:
@@ -89,6 +91,7 @@ const sliderData = [
     location: "CS Lab 2nd Floor",
   },
   {
+    id:"3",
     img: "https://res.cloudinary.com/ds4lbluhe/image/upload/v1708694970/390957785_1005229477413655_3343713001902293170_n_evct4x.jpg",
     title: "Quest for Enigma",
     description:
@@ -96,6 +99,7 @@ const sliderData = [
     location: "Cryptography Lab",
   },
   {
+    id:"4",
     img: "https://res.cloudinary.com/ds4lbluhe/image/upload/v1708695128/Screenshot_2024-02-23_190129_noofbb.png",
     title: "Bit N Bytes",
     description:
