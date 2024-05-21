@@ -28,7 +28,7 @@ export default function ExploreCard({
       variants={cardVariants}
       className={`relative ${
         active === id ? "flex-[10] lg:flex-[3.5]" : "flex-[2] lg:flex-[0.5]"
-      } ease-out-flex flex h-[700px] min-w-[170px] cursor-pointer items-center justify-center transition-[flex] duration-[0.7s]`}
+      } ease-out-flex flex h-[700px] min-w-[170px] cursor-pointer items-center justify-center transition-[flex] duration-&lsqb;0.7s&rsqb;`}
       onClick={() => handleClick(id)}
     >
       <img
