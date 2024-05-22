@@ -17,15 +17,15 @@ const eventData: EventData[] = [
   {
     id: 1,
     imageUrl:
-      "https://cdn.pixabay.com/photo/2015/12/04/14/05/code-1076536_1280.jpg",
-    eventName: "Coding Competition",
-    eventTiming: "23 April 2023",
-    eventLocation: "CNF Lab HIT",
+      "https://res.cloudinary.com/dqs4ncrqj/image/upload/v1716350127/p8y6nom6ez2zlfmdtlnh.jpg",
+    eventName: "Communicraft",
+    eventTiming: "17 April 2023",
+    eventLocation: "CS Deppt",
   },
   {
     id: 2,
-    eventName: "Hackathon",
-    eventTiming: "5-10 October 2023",
+    eventName: "CodeVault",
+    eventTiming: "February 21st, 2024",
     eventLocation: "Cryptography Lab HIT",
   },
   // Add more event objects here

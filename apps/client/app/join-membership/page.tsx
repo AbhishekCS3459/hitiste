@@ -24,9 +24,9 @@ const MembershipPage = (props: Props) => {
     }
   };
   return (
-    <div className="flex justify-center items-center my-24 text-black backdrop-blur-md ">
-      <div className="w-full max-w-lg bg-white shadow-lg rounded-lg p-8  shadow-yellow-100">
-        <h2 className="text-2xl font-bold mb-6 text-center">
+    <div className="flex justify-center items-center my-24 text-black ">
+      <div className="w-full max-w-lg shadow-lg rounded-lg p-8  shadow-gray-800">
+        <h2 className="text-2xl font-bold mb-6 text-center text-white">
           ISTE Membership Form
         </h2>
         <form>

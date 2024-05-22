@@ -31,7 +31,7 @@ export default function JoinUs() {
           className="flex flex-1 flex-col justify-center items-center"
         >
           <TypingText title="௹ Why you should join us?" textStyles={""} />
-          <div className="mt-[31px] flex max-w-[370px] flex-col gap-4">
+          <div className="mt-[31px] flex max-w-[390px] flex-col gap-2">
             {startingFeatures.map((feature: string, index: number) => (
               <JoinSteps
                 key={feature}

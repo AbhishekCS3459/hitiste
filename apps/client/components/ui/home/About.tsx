@@ -23,10 +23,12 @@ export default function About() {
           className="text-secondary-white my-[16px] text-center text-[16px] font-light sm:text-[24px]"
         >
           The ISTE Student Chapter at Haldia Institute of Technology is your
-          gateway to a world of innovation in education technology. As a part of
-          the Indian Society for Technical Education (ISTE), our mission is to
-          empower students with the tools and knowledge they need to excel in a
-          digital age.
+          gateway to a world of innovation in educational technology. As a part
+          of the Indian Society for Technical Education (ISTE), our mission is
+          to empower students with the tools and knowledge they need to excel in
+          a digital age. We provide a dynamic platform for students to engage in
+          cutting-edge research, participate in workshops, and collaborate on
+          projects that push the boundaries of technology and education.
         </motion.p>
       </motion.div>
     </section>

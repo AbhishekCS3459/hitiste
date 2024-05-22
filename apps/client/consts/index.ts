@@ -45,9 +45,11 @@ export const exploreTeams: Team[] = [
 ];
 
 export const startingFeatures: string[] = [
-  "All time membership benifit till you graduated at one time",
-  "Chance to participate in regular events organised all over India",
-  "Upskill yourself to next level",
+  "As an ISTE member, you will have access to a wealth of resources, including journals, research papers, and online courses.",
+  "ISTE organizes numerous events, including conferences, workshops, and competitions, all over India.",
+  "ISTE members receive discounts on registration fees for various events and workshops organized by the society. ",
+  "ISTE collaborates with well-known companies to offer its members internships and project opportunities.",
+  "ISTE membership opens doors for collaboration with other student chapters across the country."
 ];
 
 export interface Social {
@@ -60,16 +62,11 @@ export const socials: Social[] = [
   {
     name: "linkedin",
     icon: "/linkedin.svg",
-    url: "#",
+    url: "https://www.linkedin.com/company/iste-hit-sc/",
   },
   {
     name: "instagram",
     icon: "/instagram.svg",
-    url: "https://www.instagram.com/iste_hit_haldia/",
-  },
-  {
-    name: "facebook",
-    icon: "/facebook.svg",
-    url: "#",
+    url: "https://www.instagram.com/iste.hit.sc/",
   },
 ];

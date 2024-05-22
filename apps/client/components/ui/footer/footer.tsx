@@ -30,9 +30,6 @@ const Footer: FC<FooterProps> = () => (
             Made with ❤️ Copyright © {new Date().getFullYear()} -{" "}
             {new Date().getFullYear() + 1} ISTE@HIT
           </p>
-          <p className="text-[14px] font-normal text-white opacity-50">
-            Design and developed by @devsyze
-          </p>
           <div className="flex gap-4">
             {socials.map((social: Social) => (
               <a

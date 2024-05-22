@@ -6,6 +6,7 @@ import {
   RecentEvent,
   Explore,
   Message,
+  Guest
 } from "@/components/ui/home";
 
 export default function Hero() {
@@ -20,6 +21,7 @@ export default function Hero() {
         <JoinUs />
       </div>
       <div className="relative">
+        <Guest/>
         <RecentEvent />
         <div className="gradient-04 z-0" />
       </div>
