@@ -15,7 +15,7 @@ export default function NotFound() {
           OOPS! You have discovered a secret place
         </p>
         <p className="text-2xl md:px-12 text-center">
-          Developement is still in progress...
+          Currently we are at User Acceptance Testing. You will be informed about this feature through our instagram.
         </p>
         <div className="flex flex-row justify-between gap-8">
           <Link

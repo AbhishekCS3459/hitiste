@@ -76,34 +76,50 @@ export default function Home() {
 const sliderData = [
   {
     id:"1",
-    img: "https://res.cloudinary.com/ds4lbluhe/image/upload/v1708694408/WhatsApp_Image_2024-02-23_at_18.47.38_034a1c5d_l5rf8s.jpg",
-    location: "CS Department",
+    img: "https://images.unsplash.com/photo-1558008258-3256797b43f3?q=80&w=1331&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    location: "SN Bose Auditorium",
     description:
-      "Are you ready to advance your hacking skills and start on an exciting cybersecurity adventure? Our Capture the Flag (CTF) events and Advanced Ethical Hacking Workshop are the only places to look! ",
-    title: "CodeVault",
+      ' The wait is finally over, and Team ISTE will ensure that it is worthwhile. Get ready for an amazing experience as the Indian Society for Technical Education - HIT Student Chapter is thrilled to extend an invitation to you for our First Annual Student Convention.',
+    title: "Annual Convention",
   },
   {
     id:"2",
-    img: "https://res.cloudinary.com/ds4lbluhe/image/upload/v1708693635/IMG_20231101_185655_pwdjnf.jpg",
-    title: "Access Denied",
+    img: "https://res.cloudinary.com/dqs4ncrqj/image/upload/v1716350127/p8y6nom6ez2zlfmdtlnh.jpg",
+    location: "CS Department",
     description:
-      "Team ISTE recently had the privilege of conducting a workshop from November 1st to November 3rd that left an indelible mark on both Instructors and Attendees alike",
-    location: "CS Lab 2nd Floor",
+      ' The "Communicraft" workshop was meticulously crafted to elevate participants communication skills through a multifaceted approach under the guidance of an experienced HR from the DataSpace Academy.',
+    title: "Communicraft",
   },
   {
     id:"3",
-    img: "https://res.cloudinary.com/ds4lbluhe/image/upload/v1708694970/390957785_1005229477413655_3343713001902293170_n_evct4x.jpg",
-    title: "Quest for Enigma",
+    img: "https://res.cloudinary.com/ds4lbluhe/image/upload/v1708694408/WhatsApp_Image_2024-02-23_at_18.47.38_034a1c5d_l5rf8s.jpg",
+    location: "CS Department",
     description:
-      'Team ISTE is thrilled to announce the tremendous success of the free quiz event "Quest For Enigma," which took place from October 11th to 12th. ',
-    location: "Cryptography Lab",
+      'The cost-free "CodeVault" event, hosted by the Indian Society of Technical Education (ISTE) chapter of Haldia Institute of Technology, acts as an expansion of the preceding "Access Denied" Ethical Hacking workshop, which commenced on February , and lasted three days. The exam ranked the top 75 contenders out of 260. ',
+    title: "CodeVault",
   },
   {
     id:"4",
+    img: "https://res.cloudinary.com/ds4lbluhe/image/upload/v1708693635/IMG_20231101_185655_pwdjnf.jpg",
+    title: "Access Denied",
+    description:
+      'The "Access Denied" Ethical Hacking workshop aimed to empower participants with skills in uncovering vulnerabilities, mastering penetration testing techniques, and understanding the ethical dimensions of hacking. Led by instructors from the Data Space Academy, this workshop provided expert guidance to ensure participants gained comprehensive knowledge and practical experience in cybersecurity practices',
+    location: "CS Lab 2nd Floor",
+  },
+  {
+    id:"5",
+    img: "https://res.cloudinary.com/dqs4ncrqj/image/upload/v1716352303/sl6feobfbckblfymk3o2.jpg",
+    title: "Quest for Enigma",
+    description:
+      'Quest for Enigma was an engaging technical quiz event aimed at evaluating participants proficiency across a wide range of technical and aptitude areas. The event not only provided a platform for networking but also served as an opportunity for participants to gain recognition, boost their confidence, and enhance their career prospects.',
+    location: "Cryptography Lab",
+  },
+  {
+    id:"6",
     img: "https://res.cloudinary.com/ds4lbluhe/image/upload/v1708695128/Screenshot_2024-02-23_190129_noofbb.png",
     title: "Bit N Bytes",
     description:
-      'Indian Society for Technical Education (HIT Students Chapter) presents "BIT N BYTES" for all the coding enthusiasts. The two day competition is open to everyone.',
+      '"BIT N BYTES" was the first event conducted by ISTE, designed for coding enthusiasts, consisting of two rounds: an initial online round on HackerRank, a platform for coding challenges and competitions',
     location: "Cryptography Lab",
   },
 ];

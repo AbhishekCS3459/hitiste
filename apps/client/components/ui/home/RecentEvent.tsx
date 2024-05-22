@@ -19,7 +19,7 @@ const eventData: EventData[] = [
     imageUrl:
       "https://res.cloudinary.com/dqs4ncrqj/image/upload/v1716350127/p8y6nom6ez2zlfmdtlnh.jpg",
     eventName: "Communicraft",
-    eventTiming: "17 April 2023",
+    eventTiming: "17 April 2024",
     eventLocation: "CS Deppt",
   },
   {
